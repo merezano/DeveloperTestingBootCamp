@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 1996-2016, Construx Software, Inc., All Rights Reserved.
+  ~
+  ~ This code is the exclusive property of Construx Software, Inc. It may ONLY 
+  ~ be used by learners during Construx's workshops or by individuals who are
+  ~ being coached by Construx on a project.
+  ~
+  ~ This code may NOT be copied or used for any other purpose without the prior
+  ~ written consent of Construx Software, Inc.
+  -->
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>groupId</groupId>
+    <artifactId>Triangle</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+        </dependency>
+    </dependencies>
+
+
+</project>
