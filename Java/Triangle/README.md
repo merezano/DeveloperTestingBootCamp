@@ -1,4 +1,4 @@
-#Myer's Triangle Problem
+# Myer's Triangle Problem
 
 **Reference**: *The Art of Software Testing*, 2nd ed., Glenford Myers. (2004).
 
